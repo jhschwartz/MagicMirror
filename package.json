@@ -64,6 +64,7 @@
     "feedme": "latest",
     "helmet": "^3.9.0",
     "iconv-lite": "latest",
+    "ionicons": "^4.1.2",
     "mocha-logger": "^1.0.5",
     "moment": "latest",
     "request": "^2.83.0",
